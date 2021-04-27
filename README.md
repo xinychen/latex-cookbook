@@ -24,6 +24,6 @@ LaTeX论文写作教程 (中文版)
 - 第四章 公式编辑
   - [4.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section0.ipynb)
   - [4.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section1.ipynb)
-  - [4.2 基本运算符号](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section2.ipynb)
+  - [4.2 常用运算符号](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section2.ipynb)
   - [4.3 希腊字母](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section3.ipynb)
 
