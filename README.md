@@ -21,6 +21,8 @@ LaTeX论文写作教程 (中文版)
   - [3.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section0.ipynb)
   - [3.1 编辑文字](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section1.ipynb)
   - [3.2 创建列表](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section2.ipynb)
+  - 3.3 编辑段落
+  - 3.4 创建章节
 - 第四章 公式编辑
   - [4.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section0.ipynb)
   - [4.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section1.ipynb)
