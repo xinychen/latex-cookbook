@@ -28,4 +28,6 @@ LaTeX论文写作教程 (中文版)
   - [4.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section1.ipynb)
   - [4.2 常用运算符号](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section2.ipynb)
   - [4.3 希腊字母](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section3.ipynb)
-
+  - [4.4 微积分](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section4.ipynb)
+  - [4.5 线性代数](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section5.ipynb)
+  - [4.6 概率论与数理统计](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section6.ipynb)
