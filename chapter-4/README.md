@@ -2,3 +2,9 @@
 
 1. [How to put a long equation spanning two columns while using IEEEtran?](https://tex.stackexchange.com/q/255086/227605) (20k+次预览)
   > 【译】如何在IEEEtran模板中生成跨两列的长公式？
+
+
+### 参考文献
+
+- Kaare Brandt Petersen, Michael Syskind Pedersen. The Matrix Cookbook. 2012.
+- Gene H. Golub, Charles F. Van Loan. Matrix Computations (4th Edition). The Johns Hopkins University Press, 2013.
