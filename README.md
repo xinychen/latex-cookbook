@@ -31,3 +31,6 @@ LaTeX论文写作教程 (中文版)
   - [4.4 微积分](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section4.ipynb)
   - [4.5 线性代数](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section5.ipynb)
   - [4.6 概率论与数理统计](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section6.ipynb)
+  - [4.7 优化理论](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section7.ipynb)
+- 第五章 表格制作
+  - [5.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section0.ipynb)
