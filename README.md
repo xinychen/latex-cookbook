@@ -34,3 +34,9 @@ LaTeX论文写作教程 (中文版)
   - [4.7 优化理论](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-4/section7.ipynb)
 - 第五章 表格制作
   - [5.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section0.ipynb)
+- 第六章 插入图形
+  - [6.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section0.ipynb)
+  - [6.1 基本的插图方式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section1.ipynb)
+- 第七章 插入图形
+  - [7.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section0.ipynb)
+  - [7.1 PGF的基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section1.ipynb)
