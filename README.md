@@ -39,6 +39,7 @@ LaTeX论文写作教程 (中文版)
 - 第六章 图形插入
   - [6.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section0.ipynb)
   - [6.1 基本的插图方式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section1.ipynb)
+  - [6.2 插入子图片](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section2.ipynb)
 - 第七章 图形绘制
   - [7.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section0.ipynb)
   - [7.1 PGF的基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section1.ipynb)
