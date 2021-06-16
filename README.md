@@ -1,5 +1,6 @@
 # latex-cookbook
-LaTeX论文写作教程 (中文版)
+
+**LaTeX论文写作教程 (中文版)**
 
 ## 章节内容
 
@@ -46,7 +47,7 @@ LaTeX论文写作教程 (中文版)
   - [7.1 PGF的基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section1.ipynb)
 - 第八章 添加程序源代码和算法伪代码
   - 8.0 导言
-  - 8.1 添加程序源代码
+  - [8.1 添加程序源代码](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section1.ipynb)
 - 第九章 建立索引及文献引用
   - 9.0 导言
   - 9.1 基本介绍
@@ -54,3 +55,5 @@ LaTeX论文写作教程 (中文版)
   - 9.3 Bibtex用法
   - 9.4 文献引用格式
 - 第十章 幻灯片制作
+  - [10.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section0.ipynb)
+  - [10.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section1.ipynb)
