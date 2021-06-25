@@ -1,6 +1,6 @@
 # latex-cookbook
 
-**LaTeX论文写作教程 (中文版)**
+LaTeX论文写作教程 (中文版)
 
 ## 章节内容
 
@@ -54,7 +54,10 @@
   - [9.2 创建超链接](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section2.ipynb)
   - [9.3 Bibtex用法](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section3.ipynb)
   - [9.4 文献引用格式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
-  - 9.4 文献引用格式
 - 第十章 幻灯片制作
   - [10.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section0.ipynb)
   - [10.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section1.ipynb)
+
+## 交流与反馈
+
+如对上述开源内容有疑问或反馈，欢迎加入QQ群：903953500（LaTeX论文写作教程交流），为便于验证，请备注个人信息以及来源（如GitHub）。
