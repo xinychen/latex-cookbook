@@ -50,9 +50,10 @@
   - [8.1 添加程序源代码](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section1.ipynb)
 - 第九章 建立索引及文献引用
   - 9.0 导言
-  - 9.1 基本介绍
+  - [9.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section1.ipynb)
   - [9.2 创建超链接](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section2.ipynb)
-  - 9.3 Bibtex用法
+  - [9.3 Bibtex用法](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section3.ipynb)
+  - [9.4 文献引用格式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
   - 9.4 文献引用格式
 - 第十章 幻灯片制作
   - [10.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section0.ipynb)
