@@ -49,8 +49,8 @@ LaTeX论文写作教程 (中文版)
   - 8.0 导言
   - [8.1 添加程序源代码](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section1.ipynb)
 - 第九章 建立索引及文献引用
-  - 9.0 导言
-  - [9.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section1.ipynb)
+  - [9.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section0.ipynb)
+  - [9.1 图表和公式的索引](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section1.ipynb)
   - [9.2 创建超链接](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section2.ipynb)
   - [9.3 Bibtex用法](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section3.ipynb)
   - [9.4 文献引用格式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
@@ -60,4 +60,6 @@ LaTeX论文写作教程 (中文版)
 
 ## 交流与反馈
 
-如对上述开源内容有疑问或反馈，欢迎加入QQ群：903953500（LaTeX论文写作教程交流），为便于验证，请备注个人信息以及来源（如GitHub）。
+如对上述开源内容有任何疑问或反馈，欢迎加入QQ群：903953500（群名称为“LaTeX论文写作教程交流”）。
+
+> 提示：为便于验证，请备注个人信息以及来源（如GitHub）。
