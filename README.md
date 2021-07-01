@@ -57,6 +57,9 @@ LaTeX论文写作教程 (中文版)
 - 第十章 幻灯片制作
   - [10.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section0.ipynb)
   - [10.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section1.ipynb)
+  - [10.2 Beamer主题样式与主题颜色](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section2.ipynb)
+  - [10.3 幻灯片样式的设置](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section3.ipynb)
+  - [10.4 幻灯片中的图形](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section4.ipynb)
 
 ## 交流与反馈
 
