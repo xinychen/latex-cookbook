@@ -45,22 +45,27 @@ LaTeX论文写作教程 (中文版)
 - 第七章 图形绘制
   - [7.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section0.ipynb)
   - [7.1 PGF的基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section1.ipynb)
-- 第八章 添加程序源代码和算法伪代码
-  - 8.0 导言
-  - [8.1 添加程序源代码](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section1.ipynb)
-- 第九章 建立索引及文献引用
+- 第八章 建立索引及文献引用
+  - [8.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section0.ipynb)
+  - [8.1 图表和公式的索引](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section1.ipynb)
+  - [8.2 创建超链接](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section2.ipynb)
+  - [8.3 Bibtex用法](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section3.ipynb)
+  - [8.4 文献引用格式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section4.ipynb)
+- 第九章 幻灯片制作
   - [9.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section0.ipynb)
-  - [9.1 图表和公式的索引](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section1.ipynb)
-  - [9.2 创建超链接](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section2.ipynb)
-  - [9.3 Bibtex用法](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section3.ipynb)
-  - [9.4 文献引用格式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
-- 第十章 幻灯片制作
+  - [9.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section1.ipynb)
+  - [9.2 Beamer主题样式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section2.ipynb)
+  - [9.3 幻灯片样式调整](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section3.ipynb)
+  - [9.4 编辑文本](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
+  - [9.5 幻灯片中的图形](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section5.ipynb)
+- 第十章 LaTeX进阶
   - [10.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section0.ipynb)
-  - [10.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section1.ipynb)
-  - [10.2 Beamer主题样式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section2.ipynb)
-  - [10.3 幻灯片样式调整](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section3.ipynb)
-  - [10.4 编辑文本](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section4.ipynb)
-  - [10.5 幻灯片中的图形](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section5.ipynb)
+  - [10.1 添加程序源代码](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section1.ipynb)
+  - [10.2 添加算法伪代码](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section2.ipynb)
+  - [10.3 海报制作](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section3.ipynb)
+  - [10.4 简历制作](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section4.ipynb)
+  - [10.5 报告制作](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section5.ipynb)
+- 第十一章 科技论文制作
 
 ## 交流与反馈
 
