@@ -46,8 +46,9 @@ LaTeX论文写作教程 (中文版)
 - 第七章 图形绘制
   - [7.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section0.ipynb)
   - [7.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section1.ipynb)
-  - [7.2 高级功能](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section2.ipynb)
-  - [7.3 复杂模型实战解析](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section3.ipynb)
+  - [7.2 节点介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section2.ipynb)
+  - [7.3 高级功能](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section3.ipynb)
+  - [7.4 复杂模型实战解析](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section4.ipynb)
 - 第八章 建立索引及文献引用
   - [8.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section0.ipynb)
   - [8.1 图表和公式的索引](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-8/section1.ipynb)
