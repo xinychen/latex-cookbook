@@ -61,7 +61,7 @@ LaTeX论文写作教程 (中文版)
   - [9.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section0.ipynb)
   - [x] [9.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section1.ipynb)
   - [9.2 Beamer主题样式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section2.ipynb)
-  - [9.3 块与盒子——创建文本框](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
+  - [9.3 块与盒子——创建文本框](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section3.ipynb)
   - [9.4 编辑文本](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section4.ipynb)
   - [9.5 幻灯片中的图形](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-9/section5.ipynb)
 - 第十章 LaTeX进阶
