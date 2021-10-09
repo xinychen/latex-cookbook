@@ -21,7 +21,7 @@ LaTeX论文写作教程 (中文版)
   - [x] [2.5 一些基本命令](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-2/section5.ipynb)
 - 第三章 文本编辑
   - [x] [3.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section0.ipynb)
-  - [x] [3.1 创建标题部分、摘要及关键词] (https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section1.ipynb)
+  - [x] [3.1 创建标题部分、摘要及关键词](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section1.ipynb)
   - [x] [3.2 创建章节](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section2.ipynb)
   - [x] [3.3 生成目录](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section3.ipynb)
   - [x] [3.4 编辑段落](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-3/section4.ipynb)
