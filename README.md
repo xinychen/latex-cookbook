@@ -40,7 +40,11 @@ LaTeX论文写作教程 (中文版)
 - 第五章 表格制作
   - [x] [5.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section0.ipynb)
   - [x] [5.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section1.ipynb)
-  - [x] [5.2 调整表格样式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section2.ipynb)
+  - [x] [5.2 合并单元格](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section2.ipynb)
+  - [x] [5.3 插入斜线及表注](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section3.ipynb)
+  - [x] [5.4 调整表格样式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section4.ipynb)
+  - [x] [5.5 创建三线表格](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section5.ipynb)
+  - [x] [5.6 创建跨页表格](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-5/section6.ipynb)
 - 第六章 图形插入
   - [x] [6.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section0.ipynb)
   - [x] [6.1 基本的插图方式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section1.ipynb)
