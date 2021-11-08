@@ -79,9 +79,3 @@ LaTeX论文写作教程 (中文版)
   - [x] [10.4 简历制作](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section4.ipynb)
   - [x] [10.5 报告制作](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section5.ipynb)
 - 第十一章 科技论文制作
-
-## 交流与反馈
-
-如对上述开源内容有任何疑问或反馈，欢迎加入QQ群：903953500（群名称为“LaTeX论文写作教程交流”）。
-
-> 提示：为便于验证，请备注个人信息以及来源（如GitHub）。
