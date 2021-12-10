@@ -1,0 +1,61 @@
+\documentclass[border=0.3cm, 12pt, convert = false]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[heading = false]{ctex}
+\usepackage{xeCJK}
+\CJKfamily{zhhei}
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\NewDocumentCommand{\codeword}{v}{%
+\texttt{\textcolor{blue}{#1}}%
+}
+
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}
+
+\node[draw, align=center, text width=2.5cm, rounded corners, fill=red!10] at (0, 0) {\large\heiti 主题样式};
+
+\node[align=center, color=gray] at (0, -1) {\large\heiti 命令: \codeword{\usetheme{theme name}}};
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (-9,-1.5) rectangle (9,-4.5);
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-7.5, -2) {\normalsize default};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-4.5, -2) {\normalsize AnnArbor};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-1.5, -2) {\normalsize Antibes};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (1.5, -2) {\normalsize Bergen};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (4.5, -2) {\normalsize Berkeley};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (7.5, -2) {\normalsize Berlin};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-7.5, -3) {\normalsize Boadilla};
+
+\node[draw, align=center, text width=2.6cm, rounded corners, fill=cyan!5] at (-4.5, -3) {\normalsize CambridgeUS};
+
+\node[draw, align=center, text width=2.6cm, rounded corners, fill=cyan!5] at (-1.5, -3) {\normalsize Copenhagen};
+
+\node[draw, align=center, text width=2.2cm, rounded corners, fill=cyan!5] at (1.5, -3) {\normalsize Darmstadt};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (4.5, -3) {\normalsize Dresden};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (7.5, -3) {\normalsize Frankfurt};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-7.5, -4) {\normalsize Goettingen};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-4.5, -4) {\normalsize Hannover};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (-1.5, -4) {\normalsize Madrid};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (1.5, -4) {\normalsize Singapore};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (4.5, -4) {\normalsize Warsaw};
+
+\node[align=center, color=gray] at (7.5, -4) {\large $\cdots$};
+
+\end{tikzpicture}
+\end{document}
