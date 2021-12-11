@@ -1,0 +1,35 @@
+\documentclass[border=0.3cm, 12pt, convert = false]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[heading = false]{ctex}
+\usepackage{xeCJK}
+\CJKfamily{zhhei}
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\NewDocumentCommand{\codeword}{v}{%
+\texttt{\textcolor{blue}{#1}}%
+}
+
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (-6,0.2) rectangle (11,-2.5);
+
+\node[draw, align=center, text width=4.5cm, rounded corners, fill=red!10] at (-3, 0.2) {\large\heiti 使用listings宏包};
+
+\node[align=center, color=gray] at (0, -1) {\large\heiti 前导代码: \codeword{\usepackage{listings}}};
+
+\node[align=center, color=gray] at (3.25, -2) {\large\heiti 主体代码: \codeword{\begin{lstlisting}} (程序源代码) \codeword{\end{lstlisting}}};
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (-6,0.2-4) rectangle (11,-2.5-4);
+
+\node[draw, align=center, text width=4.5cm, rounded corners, fill=red!10] at (-3, 0.2-4) {\large\heiti 使用verbatim宏包};
+
+\node[align=center, color=gray] at (0, -1-4) {\large\heiti 前导代码: \codeword{\usepackage{verbatim}}};
+
+\node[align=center, color=gray] at (2.72, -2-4) {\large\heiti 主体代码: \codeword{\begin{verbatim}} (程序源代码) \codeword{\end{verbatim}}};
+
+\end{tikzpicture}
+\end{document}
