@@ -1,0 +1,87 @@
+\documentclass[border=0.3cm, 12pt, convert = false]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[heading = false]{ctex}
+\usepackage{xeCJK}
+\CJKfamily{zhhei}
+\usepackage{fontspec}
+\setmainfont{Arial}
+
+\NewDocumentCommand{\codeword}{v}{%
+\texttt{\textcolor{blue}{#1}}%
+}
+
+\usepackage{tikz}
+
+\begin{document}
+\begin{tikzpicture}
+
+% 颜色主题
+\node[draw, align=center, text width=2.5cm, rounded corners, fill=red!10] at (0, 0) {\large\heiti 颜色主题};
+
+\node[align=center, color=gray] at (0, -1) {\large\heiti 命令: \codeword{\usecolortheme{name}}};
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (-2,-1.5) rectangle (2,-7.5);
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -2) {\normalsize beetle};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -3) {\normalsize beaver};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -4) {\normalsize orchid};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -5) {\normalsize whale};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -6) {\normalsize dolphin};
+
+\node[align=center, color=gray] at (0, -7) {\large $\cdots$};
+
+% 字体主题
+\node[draw, align=center, text width=2.5cm, rounded corners, fill=red!10] at (10, 0) {\large\heiti 字体主题};
+
+\node[align=center, color=gray] at (10, -1) {\large\heiti 命令: \codeword{\usefonttheme{name}}};
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (7,-1.5) rectangle (13,-6.5);
+
+\node[draw, align=center, text width=3.2cm, rounded corners, fill=cyan!5] at (10, -2) {\normalsize professionalfonts};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (10, -3) {\normalsize serif};
+
+\node[draw, align=center, text width=2.8cm, rounded corners, fill=cyan!5] at (10, -4) {\normalsize structurebold};
+
+\node[draw, align=center, text width=3.5cm, rounded corners, fill=cyan!5] at (10, -5) {\normalsize structureitalicserif};
+
+\node[draw, align=center, text width=4.4cm, rounded corners, fill=cyan!5] at (10, -6) {\normalsize structuresmallcapsserif};
+
+% 内部主题
+\node[draw, align=center, text width=2.5cm, rounded corners, fill=red!10] at (0, -10) {\large\heiti 内部主题};
+
+\node[align=center, color=gray] at (0, -11) {\large\heiti 命令: \codeword{\useinnertheme{name}}};
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (-2,-11.5) rectangle (2,-15.5);
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -12) {\normalsize circles};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -13) {\normalsize rectanges};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -14) {\normalsize rounded};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (0, -15) {\normalsize inmargin};
+
+% 外部主题
+\node[draw, align=center, text width=2.5cm, rounded corners, fill=red!10] at (10, -10) {\large\heiti 外部主题};
+
+\node[align=center, color=gray] at (10, -11) {\large\heiti 命令: \codeword{\useoutertheme{name}}};
+
+\filldraw[fill=gray!5, draw=gray, rounded corners] (8,-11.5) rectangle (12,-16.5);
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (10, -12) {\normalsize infolines};
+
+\node[draw, align=center, text width=2.2cm, rounded corners, fill=cyan!5] at (10, -13) {\normalsize smoothbars};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (10, -14) {\normalsize sidebar};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (10, -15) {\normalsize split};
+
+\node[draw, align=center, text width=2cm, rounded corners, fill=cyan!5] at (10, -16) {\normalsize tree};
+
+\end{tikzpicture}
+\end{document}
