@@ -83,6 +83,8 @@ LaTeX论文写作教程 (中文版)
   - [x] [10.5 报告制作](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-10/section5.ipynb)
 - 第十一章 科技论文制作
 
+<br>
+
 ## 支持我们
 
 如果你喜欢本教程，欢迎在评论区（[create a new issue!](https://github.com/xinychen/latex-cookbook/issues)）给出你宝贵的意见！一同完善本教程，为大家提供更好的学习资源。
