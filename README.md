@@ -11,7 +11,7 @@ LaTeX论文写作教程 (中文版)
   - [x] [1.3 应运而生的在线系统](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section3.ipynb)
   - [x] [1.4 LaTeX问答社区](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section4.ipynb)
   - [x] [1.5 关于LaTeX的开源项目](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section5.ipynb)
-  - [1.6 LaTeX制作中文文档](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section6.ipynb)
+  - [x] [1.6 LaTeX制作中文文档](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section6.ipynb)
 - 第二章 LaTeX基础及文档类型
   - [x] [2.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-2/section0.ipynb)
   - [x] [2.1 LaTeX语法规则](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-2/section1.ipynb)
