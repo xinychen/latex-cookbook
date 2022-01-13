@@ -89,6 +89,8 @@ LaTeX论文写作教程 (中文版)
 
 <br>
 
+> [如GitHub打开方式不佳，请打开此链接使用nbviewer浏览章节内容目录。](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/chapter-0/tableofcontents.ipynb)
+
 ## 支持我们
 
 如果你喜欢本教程，欢迎在评论区（[create a new issue!](https://github.com/xinychen/latex-cookbook/issues)）给出你宝贵的意见！一同完善本教程，为大家提供更好的学习资源。
