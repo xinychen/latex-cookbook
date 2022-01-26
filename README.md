@@ -55,7 +55,6 @@ LaTeX论文写作教程 (中文版)
   - [x] [6.3 插入图表目录](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section3.ipynb)
   - [x] [6.4 定制图表标题样式](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section4.ipynb)
   - [x] [6.5 插入子图](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section5.ipynb)
-  - [x] [6.6 图片排列与布局](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-6/section6.ipynb)
 - 第七章 图形绘制
   - [x] [7.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section0.ipynb)
   - [x] [7.1 基本介绍](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-7/section1.ipynb)
