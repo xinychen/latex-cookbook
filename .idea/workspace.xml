@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="137267f0-8db1-42e5-96aa-9fe501b12d3f" name="Changes" comment="" />
+    <list default="true" id="137267f0-8db1-42e5-96aa-9fe501b12d3f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/chapter-2/section3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/chapter-2/section3.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +32,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644179313238</updated>
       <workItem from="1644179315312" duration="33000" />
+      <workItem from="1644182974046" duration="471000" />
     </task>
     <servers />
   </component>
@@ -46,5 +49,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
