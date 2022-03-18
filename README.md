@@ -4,6 +4,9 @@ LaTeX论文写作教程 (中文版)
 
 ## 章节内容
 
+- 写在前面
+  - [x] [内容简介](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/chapter-0/intro.ipynb)
+  - [x] [前言](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/chapter-0/preface.ipynb)
 - 第一章 LaTeX的出现与发展
   - [x] [1.0 导言](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section0.ipynb)
   - [x] [1.1 横空出世的TeX](https://nbviewer.jupyter.org/github/xinychen/latex-cookbook/blob/main/chapter-1/section1.ipynb)
