@@ -2,7 +2,7 @@
 
 LaTeX论文写作教程 (中文版)
 
-## 章节内容
+## 章节内容（第一版）
 
 - 写在前面
   - [x] [内容简介](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/version-1/chapter-0/intro.ipynb)
@@ -85,6 +85,12 @@ LaTeX论文写作教程 (中文版)
 <br>
 
 > [如GitHub打开方式不佳，请打开此链接使用nbviewer浏览章节内容目录。](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/version-1/chapter-0/tableofcontents.ipynb)
+
+## 章节内容（最新版）
+
+- 写在前面
+
+<br>
 
 ## 支持我们
 
