@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://github.com/xinychen/latex-cookbook/blob/main/cover.png">
-<img src="cover.png" alt="drawing" width="500" align="middle"/>
+<img src="cover.png" alt="drawing" width="400" align="middle"/>
 </a>
 </p>
 
