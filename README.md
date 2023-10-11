@@ -3,7 +3,7 @@
 
 ### 出版信息
 
-> 陈新宇，金杰灵，廖琼华，张程远，陈晓旭. **LaTeX论文写作教程** (Academic Writing with LaTeX). 清华大学出版社, 2023.
+> 陈新宇，金杰灵，廖琼华，张程远，陈晓旭. **LaTeX论文写作教程** (Academic Writing with LaTeX). 清华大学出版社，2023.
 
 <br>
 
