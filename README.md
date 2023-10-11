@@ -7,6 +7,14 @@
 
 <br>
 
+<p align="center">
+<a href="https://github.com/xinychen/latex-cookbook/blob/main/cover.png">
+<img src="cover.png" alt="drawing" width="500" align="middle"/>
+</a>
+</p>
+
+<br>
+
 ## 章节内容（第一版）
 
 - 写在前面
