@@ -15,6 +15,10 @@
 
 <br>
 
+**纸质书购买**：[京东自营](https://cfe.m.jd.com/privatedomain/risk_handler/03101900/?returnurl=http%3A%2F%2Fitem.m.jd.com%2Fproduct%2F14204878.html%3Futm_source%3Dweixin%26utm_medium%3Dweixin%26utm_campaign%3Dt_1000072672_17053_001%26utm_term%3DWxmoments%26ad_od%3Dshare%26utm_user%3Dplusmember%26gx%3DRnAoFvPAsbpwHi2Oew_eEaN8GQ%26gxd%3DRnAowWdRbzyNnZ9A-dUkXrgDVNnjd_cJT_uU0i8SU7L1SVaW5QtuEvmZFUrzbug%26_fd%3Djdm%26PTAG%3D17053.1.1&appid=2146&evtype=3&evurl=https://cfe.m.jd.com/privatedomain/risk_handler/03101900/&rpid=rp-188606589-10208-1697723587024)
+
+<br>
+
 ## 章节内容（第一版）
 
 - 写在前面
