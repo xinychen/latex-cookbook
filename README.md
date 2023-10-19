@@ -8,8 +8,8 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/xinychen/latex-cookbook/blob/main/cover.png">
-<img src="cover.png" alt="drawing" width="400" align="middle"/>
+<a href="https://github.com/xinychen/latex-cookbook/blob/main/latex-book-jd.jpg">
+<img src="latex-book-jd.jpg" alt="drawing" width="500" align="middle"/>
 </a>
 </p>
 
