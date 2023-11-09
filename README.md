@@ -21,6 +21,8 @@
 
 ## 章节内容（第一版）
 
+> 注：鉴于出版社版权所有，仅前两章可供直接阅读，带来不便，敬请谅解！
+
 - 写在前面
   - [x] [内容简介](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/version-1/chapter-0/intro.ipynb)
   - [x] [前言](https://nbviewer.org/github/xinychen/latex-cookbook/blob/main/version-1/chapter-0/preface.ipynb)
